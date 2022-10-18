@@ -606,7 +606,7 @@ ul.search li a:hover {
 /**/
 .custom-shape-divider-bottom-1666079713 {
      position: absolute;
-     bottom: -120px;
+     margin-top:-70px;
      left: 0;
      width: 100%;
      overflow: hidden;
